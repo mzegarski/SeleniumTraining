@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuitePecoTests">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testng.Assignment5Peco2"/>
+      <class name="testng.Assignment5Peco3"/>
+      <class name="testng.Assignment5Peco1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- SuitePecoTests -->
